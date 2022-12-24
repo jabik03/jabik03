@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">Amateur student, future senior, .NET C# software developer</h3>
+<h3 align="center">Beginner Python developer</h3>
 
 - 🔭 I'm not developing anything yet
 
