@@ -29,7 +29,6 @@
 
 ### — _Tools:_
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-090909?style=for-the-badge&logo=visual-studio-code&logoColor=0078D7)
-![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 ### — _Favorite Operating Systems:_
 ![Windows](https://img.shields.io/badge/Windows-090909?style=for-the-badge&logo=windows&logoColor=268BEE)
